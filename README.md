@@ -1,3 +1,5 @@
 # StablePerceptCNN
 Code for the paper "Motor-related signals support localization invariance for stable visual perception"
-  work in progress...
+ 
+ 
+ Work in progress...
